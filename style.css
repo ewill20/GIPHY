@@ -1,0 +1,28 @@
+.btn {
+	background-color: #ff5739;
+	color: white;
+
+}
+#addShiba {
+	color: #ff5739;
+	background-color: lightgray;
+	border-radius: 3px;
+	margin-top: 5px;
+	float: right;
+}
+body {
+	background-color: #d9d9d9;
+	padding: 10px 10px 10px 10px;
+}
+#shibaInu-form {
+	float: right;
+}
+.buttons-static {
+	height: auto;
+	width: 100%;
+}
+.category {
+	background-color: #ff5739;
+	color: white;
+	border-radius: 5px;
+}
